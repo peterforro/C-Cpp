@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/CPPswap.dir/memtrace.cpp.o CMakeFiles/CPPswap.dir/swap.cpp.o CMakeFiles/CPPswap.dir/swap_test.cpp.o  -o CPPswap 

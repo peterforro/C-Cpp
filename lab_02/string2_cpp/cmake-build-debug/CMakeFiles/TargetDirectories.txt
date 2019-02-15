@@ -1,0 +1,3 @@
+/home/peterforro/Documents/code/bme/lab_02/string2_cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/peterforro/Documents/code/bme/lab_02/string2_cpp/cmake-build-debug/CMakeFiles/string2_cpp.dir
+/home/peterforro/Documents/code/bme/lab_02/string2_cpp/cmake-build-debug/CMakeFiles/edit_cache.dir

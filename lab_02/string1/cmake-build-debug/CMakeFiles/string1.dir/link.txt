@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/string1.dir/memtrace.c.o CMakeFiles/string1.dir/string1.c.o CMakeFiles/string1.dir/string1_main.c.o  -o string1 

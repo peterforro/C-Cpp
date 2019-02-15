@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/string2_cpp.dir/memtrace.cpp.o CMakeFiles/string2_cpp.dir/string2.cpp.o CMakeFiles/string2_cpp.dir/string2_main.cpp.o  -o string2_cpp 
