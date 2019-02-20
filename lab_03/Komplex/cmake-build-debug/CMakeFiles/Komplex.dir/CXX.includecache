@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/peterforro/Documents/code/C-Cpp/lab_03/Komplex/elkeszult.h
+
+/home/peterforro/Documents/code/C-Cpp/lab_03/Komplex/komplex.cpp
+iostream
+-
+iomanip
+-
+cmath
+-
+komplex.h
+/home/peterforro/Documents/code/C-Cpp/lab_03/Komplex/komplex.h
+
+/home/peterforro/Documents/code/C-Cpp/lab_03/Komplex/komplex.h
+elkeszult.h
+/home/peterforro/Documents/code/C-Cpp/lab_03/Komplex/elkeszult.h
+

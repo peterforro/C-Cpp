@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Komplex.dir/komplex.cpp.o CMakeFiles/Komplex.dir/komplex_teszt.cpp.o  -o Komplex 

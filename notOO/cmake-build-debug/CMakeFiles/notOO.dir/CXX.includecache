@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/peterforro/Documents/code/C-Cpp/notOO/max.hpp
+nem_oo.h
+/home/peterforro/Documents/code/C-Cpp/notOO/nem_oo.h
+
+/home/peterforro/Documents/code/C-Cpp/notOO/nem_oo.cpp
+cstring
+-
+cctype
+-
+nem_oo.h
+/home/peterforro/Documents/code/C-Cpp/notOO/nem_oo.h
+max.hpp
+/home/peterforro/Documents/code/C-Cpp/notOO/max.hpp
+
+/home/peterforro/Documents/code/C-Cpp/notOO/nem_oo.h
+cmath
+-
+iostream
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/max.hpp.dir/memtrace.cpp.o CMakeFiles/max.hpp.dir/nem_oo.cpp.o CMakeFiles/max.hpp.dir/nem_oo_teszt.cpp.o  -o max.hpp 

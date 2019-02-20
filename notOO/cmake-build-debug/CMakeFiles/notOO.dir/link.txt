@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/notOO.dir/nem_oo_teszt.cpp.o CMakeFiles/notOO.dir/nem_oo.cpp.o  -o notOO 
