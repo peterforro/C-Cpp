@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/peterforro/Documents/code/C-Cpp/practice/DynamicArray.h
+iostream
+-
+
+/home/peterforro/Documents/code/C-Cpp/practice/main.cpp
+iostream
+-
+DynamicArray.h
+/home/peterforro/Documents/code/C-Cpp/practice/DynamicArray.h
+

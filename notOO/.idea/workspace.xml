@@ -11,17 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e39c9ef6-571e-482a-9bf0-00b3ae971f52" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../lab_03/Teglalap/teglalap.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/max.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/memtrace.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/memtrace.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nem_oo.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nem_oo.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nem_oo_teszt.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nem_oo_teszt_ekezetes.cpp" afterDir="false" />
-    </list>
+    <list default="true" id="e39c9ef6-571e-482a-9bf0-00b3ae971f52" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,8 +64,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/nem_oo.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="33">
-              <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+            <state relative-caret-position="313">
+              <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
                 <element signature="e#86#88#0" expanded="true" />
@@ -189,22 +179,23 @@
       <workItem from="1550589866590" duration="11641000" />
       <workItem from="1550617078794" duration="649000" />
       <workItem from="1550653650304" duration="24000" />
-      <workItem from="1550674758680" duration="11086000" />
+      <workItem from="1550674758680" duration="11887000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62836000" />
+    <option name="totallyTimeSpent" value="63637000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-37" width="1920" height="1117" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.15261473" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.8460754" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.8460754" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4271152" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -346,8 +337,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/nem_oo.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        <state relative-caret-position="313">
+          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
             <element signature="e#86#88#0" expanded="true" />

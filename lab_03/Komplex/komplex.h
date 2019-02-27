@@ -43,12 +43,6 @@ class Komplex {
             Komplex& operator+=(double rhs_d);
         #endif
 
-#if ELKESZULT >= 7
-    /// Kiírás egy ostream-re.
-    /// Ez is csak globális függvénnyel valósítható meg.
-    /// A bal oldal osztály ugyan, de nincs a kezünkben, nem módosítható.
-    /// Ld. az osztály deklarációja után!
-#endif
 
 #if ELKESZULT >= 8
     /// komplex konjugált
@@ -93,12 +87,6 @@ class Komplex {
 #endif
 
 #if ELKESZULT >= 7
-// cout << Komplex is csak globális függvénnyel valósítható meg, mivel
-// az baloldali osztály (ostream) nincs a kezünkben, nem módosítható
-/// Kiírás egy ostream-re
-/// @param os - bal oldali operandus (ostream)
-/// @param rhs_k - jobb oldali operandus (Komplex)
-/// @return ostream&, hogy fűzhető legyen
 std::ostream& operator<<(std::ostream& os, const Komplex& rhs_k);
 
 /// Beolvasás egy istream-ről

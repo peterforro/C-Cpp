@@ -1,0 +1,3 @@
+/home/peterforro/Documents/code/C-Cpp/CppResistor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/peterforro/Documents/code/C-Cpp/CppResistor/cmake-build-debug/CMakeFiles/CppResistor.dir
+/home/peterforro/Documents/code/C-Cpp/CppResistor/cmake-build-debug/CMakeFiles/edit_cache.dir

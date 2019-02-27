@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/CppResistor.dir/resistor_test.cpp.o CMakeFiles/CppResistor.dir/resistor.cpp.o  -o CppResistor 
