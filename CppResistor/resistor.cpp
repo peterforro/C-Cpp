@@ -12,6 +12,7 @@ Resistor::Resistor() {
     R = Resistor::defR;
 }
 
+
 Resistor::Resistor(double r) {
     R = r;
 }

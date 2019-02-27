@@ -12,18 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce3ad4e3-350b-4a8d-875f-5df7319ca5b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice/DynamicArray.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice/DynamicArray.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resistor.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/resistor.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resistor.h" beforeDir="false" afterPath="$PROJECT_DIR$/resistor.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resistor_test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/resistor_test.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab_03/Komplex/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab_03/Komplex/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab_03/Komplex/komplex.h" beforeDir="false" afterPath="$PROJECT_DIR$/../lab_03/Komplex/komplex.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../notOO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../notOO/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practice/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/../practice/.vscode/launch.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practice/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../practice/main.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,8 +29,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/resistor.cpp">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="616">
-                  <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+                <state relative-caret-position="242">
+                  <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
                 </state>
               </provider>
             </entry>
@@ -88,13 +77,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
-        <option value="$PROJECT_DIR$/resistor.cpp" />
         <option value="$PROJECT_DIR$/resistor.h" />
         <option value="$PROJECT_DIR$/resistor_test.cpp" />
+        <option value="$PROJECT_DIR$/resistor.cpp" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="27" />
     <option name="width" value="1890" />
     <option name="height" value="1053" />
@@ -155,15 +144,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551295973198</updated>
-      <workItem from="1551295974678" duration="2337000" />
+      <workItem from="1551295974678" duration="3278000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2337000" />
+    <option name="totallyTimeSpent" value="3278000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-37" width="1920" height="1117" extended-state="6" />
+    <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -199,13 +188,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resistor.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -213,10 +195,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/resistor.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/resistor.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="242">
+          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
         </state>
       </provider>
     </entry>
